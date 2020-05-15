@@ -1,0 +1,6 @@
+{
+    "api": { 
+      "invokeUrl": "https://e5abfgzhy9.execute-api.eu-west-1.amazonaws.com/test"
+      
+    } 
+  }
